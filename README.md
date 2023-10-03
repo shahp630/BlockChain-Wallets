@@ -92,6 +92,19 @@ and pass it your Ethereum `account.address`.
 ![Screenshot (73)](https://github.com/shahp630/BlockChain-Wallets/assets/133065460/e0492bb2-2ff3-467a-b39c-2e77df26c5ac)
 
 
+# 3. On the resulting webpage, select a candidate that you would like to hire from the appropriate drop-down menu. Then, enter the number of hours that you would like to hire them for.
+
+![Screenshot (79)](https://github.com/shahp630/BlockChain-Wallets/assets/133065460/c95802c7-3ed5-4d70-ac11-7708012338ea)
+
+![Screenshot (82)](https://github.com/shahp630/BlockChain-Wallets/assets/133065460/2d9408a7-ee39-44fb-9eda-39c57fa0d486)
+
+Although it wasn't the most ideal decision, our Company decided to hire two candidates: Jane & Jo
+
+
+
+
+
+
 
 
 
