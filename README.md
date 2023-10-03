@@ -98,7 +98,9 @@ and pass it your Ethereum `account.address`.
 
 ![Screenshot (82)](https://github.com/shahp630/BlockChain-Wallets/assets/133065460/2d9408a7-ee39-44fb-9eda-39c57fa0d486)
 
-Although it wasn't the most ideal decision, our Company decided to hire two candidates: Jane & Jo
+# Although it wasn't the most ideal decision, our Company decided to hire two candidates: Jane & Jo
+
+
 
 
 
