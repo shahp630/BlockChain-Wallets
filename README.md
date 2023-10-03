@@ -39,3 +39,29 @@ The steps for this challenge are broken out into the following sections:
 Import Ethereum Transaction Functions into the KryptoJobs2Go Application
 Sign and Execute a Payment Transaction
 Inspect the Transaction on Ganache
+
+# Step 1: Import Ethereum Transaction Functions into the KryptoJobs2Go Application
+
+![Screenshot (74)](https://github.com/shahp630/BlockChain-Wallets/assets/133065460/9dd10fa8-89ce-4e30-8116-a65ebde00184)
+
+# 2. Add your mnemonic seed phrase (provided by Ganache) to the starter code’s `SAMPLE.env` file.
+
+# 3. Import the following functions from the `crypto_wallet.py` file:
+# * `generate_account`
+# * `get_balance`
+# * `send_transaction`
+
+![Screenshot (75)](https://github.com/shahp630/BlockChain-Wallets/assets/133065460/f289b080-a596-468d-bf8d-709325c8328c)
+
+# 4. Within the Streamlit sidebar section of code, create a variable named
+# `account`. Set this variable equal to a call on the `generate_account`
+# function. This function will create the KryptoJobs2Go customer’s (in this
+# case, your) HD wallet and Ethereum account.
+
+# 5. Within this same section of the `krypto_jobs.py` file, define a
+# new `st.sidebar.write` function that will display the balance of the
+# customer’s account. Inside this function, call the `get_balance` function
+# and pass it your Ethereum `account.address`.
+
+![Screenshot (76)](https://github.com/shahp630/BlockChain-Wallets/assets/133065460/accb027c-9480-4a9d-9e60-e132d3a065d9)
+
