@@ -65,3 +65,27 @@ and pass it your Ethereum `account.address`.
 
 ![Screenshot (76)](https://github.com/shahp630/BlockChain-Wallets/assets/133065460/accb027c-9480-4a9d-9e60-e132d3a065d9)
 
+# Step 2: Sign and Execute a Payment Transaction
+
+# Step 2 - Part 1: Write the equation that calculates the candidate’s wage
+
+![Screenshot (77)](https://github.com/shahp630/BlockChain-Wallets/assets/133065460/9bf123c2-9942-4664-9ea8-91c2dc765927)
+
+# Step 2 - Part 2: Call the `send_transaction` function and pass it three parameters:
+
+![Screenshot (78)](https://github.com/shahp630/BlockChain-Wallets/assets/133065460/b47c2695-0331-4ed1-904e-f3a13018ae03)
+
+# Step 3: Inspect the Transaction
+
+# KryptoJobs2Go! 
+
+4 Candidate Options: 
+![Screenshot (70)](https://github.com/shahp630/BlockChain-Wallets/assets/133065460/5677c586-fe86-4179-a6f3-360987ae5fcf)
+![Screenshot (71)](https://github.com/shahp630/BlockChain-Wallets/assets/133065460/06a27abf-8b7c-4649-8c31-097f4fca572f)
+![Screenshot (72)](https://github.com/shahp630/BlockChain-Wallets/assets/133065460/246bc74b-d19f-415b-bd76-62425d3fd167)
+![Screenshot (73)](https://github.com/shahp630/BlockChain-Wallets/assets/133065460/e0492bb2-2ff3-467a-b39c-2e77df26c5ac)
+
+
+
+
+
