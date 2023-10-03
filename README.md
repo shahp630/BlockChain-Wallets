@@ -98,7 +98,20 @@ and pass it your Ethereum `account.address`.
 
 ![Screenshot (82)](https://github.com/shahp630/BlockChain-Wallets/assets/133065460/2d9408a7-ee39-44fb-9eda-39c57fa0d486)
 
-# Although it wasn't the most ideal decision, our Company decided to hire two candidates: Jane & Jo
+# Although it wasn't the most ideal decision, our Company decided to hire two candidates: Jane & Jo. Jane was hired for a total of 20 hours. Our remaining Ethereum balance after this transaction is listed below:
+
+![Screenshot (80)](https://github.com/shahp630/BlockChain-Wallets/assets/133065460/71c7786e-2e77-422d-b607-a4f64e83faea)
+
+# Our Company decided to hire Jo for a total of 40 hours. After paying both Lane & Jo, our remaining Ethereum balance is as follows:
+
+![Screenshot (83)](https://github.com/shahp630/BlockChain-Wallets/assets/133065460/f1038de7-2e3c-4f87-82ca-565e3ec3c207)
+
+
+
+
+
+
+
 
 
 
