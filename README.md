@@ -77,13 +77,20 @@ and pass it your Ethereum `account.address`.
 
 # Step 3: Inspect the Transaction
 
-# KryptoJobs2Go! 
+# 1. From your terminal, navigate to the project folder that contains your `.env` file and the `krypto_jobs.py` and `crypto_wallet.py` files.
 
-4 Candidate Options: 
+# 2. To launch the Streamlit application, type `streamlit run krypto_jobs.py`.
+
+# KryptoJobs2Go! 4 Candidate Options: 
+
 ![Screenshot (70)](https://github.com/shahp630/BlockChain-Wallets/assets/133065460/5677c586-fe86-4179-a6f3-360987ae5fcf)
+
 ![Screenshot (71)](https://github.com/shahp630/BlockChain-Wallets/assets/133065460/06a27abf-8b7c-4649-8c31-097f4fca572f)
+
 ![Screenshot (72)](https://github.com/shahp630/BlockChain-Wallets/assets/133065460/246bc74b-d19f-415b-bd76-62425d3fd167)
+
 ![Screenshot (73)](https://github.com/shahp630/BlockChain-Wallets/assets/133065460/e0492bb2-2ff3-467a-b39c-2e77df26c5ac)
+
 
 
 
